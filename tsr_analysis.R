@@ -526,7 +526,7 @@ p1 = m$BUGSoutput$mean
 ts = c(-2, 0, 2)
 
 # species order
-ss = c(6,4,3,2,7,5,1)
+ss = c(7, 6, 3, 4, 5, 2, 1)
 
 
 
@@ -581,6 +581,7 @@ lines(pred.length.warm$age, exp(pred.length.warm[,2]), lwd = 2, col = "red")
 count = count+1
 
 }
+
 
 
 
